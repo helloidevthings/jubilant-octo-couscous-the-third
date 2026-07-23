@@ -10,11 +10,11 @@ export default function Home() {
           src="/next.svg"
           alt="Next.js logo"
           width={100}
-          height={20}
+          height={20}xx
           priority
         />
         <div className={styles.intro}>
-          <h1>Hellooooo I am new page</h1>
+          <h1>Hello I'm Joyanna</h1>
           <p>
             Looking for a starting point or more instructions? Head over to{" "}
             <a
